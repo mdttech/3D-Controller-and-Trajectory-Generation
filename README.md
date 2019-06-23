@@ -139,3 +139,5 @@ You will need to implement the function traj_generator.m to generate a trajector
 
 # OUTPUT 
 
+![3](https://user-images.githubusercontent.com/36922299/59974745-58abd000-95cd-11e9-9da8-caa582ff028e.jpg)
+
