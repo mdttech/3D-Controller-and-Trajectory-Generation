@@ -34,6 +34,4 @@ F = m*(g+accl_command(3));
 % Moment
 M = (kdm.*(des_omega-state.omega))+(kpm.*(des_rot-state.rot));
 
-% =================== Your code ends here ===================
-
 end
